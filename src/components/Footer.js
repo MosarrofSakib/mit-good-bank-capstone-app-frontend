@@ -16,23 +16,13 @@ function Footer() {
           </a>
         </li>
         <li>
-          <a href="https://www.instagram.com/" target="_blank" rel="noreferrer">
-          <FontAwesomeIcon icon={freeBrandsSvgIcons.faInstagramSquare} />
-          </a>
-        </li>
-        <li>
-          <a href="https://www.youtube.com/" target="_blank" rel="noreferrer">
-          <FontAwesomeIcon icon={freeBrandsSvgIcons.faYoutubeSquare} />
-          </a>
-        </li>
-        <li>
-          <a href="https://www.pinterest.com/" target="_blank" rel="noreferrer">
-          <FontAwesomeIcon icon={freeBrandsSvgIcons.faPinterestSquare} />
-          </a>
-        </li>
-        <li>
           <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">
           <FontAwesomeIcon icon={freeBrandsSvgIcons.faLinkedin} />
+          </a>
+        </li>
+        <li>
+        <a href="https://www.youtube.com/" target="_blank" rel="noreferrer">
+          <FontAwesomeIcon icon={freeBrandsSvgIcons.faYoutubeSquare} />
           </a>
         </li>
       </ul>

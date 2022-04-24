@@ -46,7 +46,7 @@ function NavBar(props) {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
       <div className="p-3">
-        <img src="bank-logo.png" alt="MyBank" width="65px" />
+        <img src="ENSologo.png" alt="MyBank" width="65px" />
         <a className="navbar-brand brand-text" href="#/" title="Home Page">
           MyBank
         </a>
